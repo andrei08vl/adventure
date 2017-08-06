@@ -1,0 +1,19 @@
+{
+  "name": "acasa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrei08vl/Andrei-Nicolae.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrei08vl/Andrei-Nicolae/issues"
+  },
+  "homepage": "https://github.com/andrei08vl/Andrei-Nicolae#readme"
+}
